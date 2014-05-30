@@ -1,4 +1,5 @@
 dave.recoil.org-unikernels
 ==========================
 
-Unikernels for deployment
+This repo contains compiled unikernel binaries built from the source in
+djs55/dave.recoil.org
